@@ -73,7 +73,7 @@ const analyzer =  {
         }
     }
   
-    // Si se termina de recorrer el texto y ha comenzado una palabra, incrementamos el contador de palabras
+    // Si se termina de recorrer el texto y ha comenzado una palabra, se incrementa el contador de palabras
     if (inicioPalabra) {
         wordCount++;
     }
