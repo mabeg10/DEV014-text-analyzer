@@ -1,0 +1,52 @@
+html {
+    background-color: #ccd5ae;
+}
+header {
+    display: block;
+}
+header h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: #1E1D1D;
+    text-align: center;
+    display: block;
+}
+
+textarea[name="user-input"] {
+    background-color: #FEFAE0;
+    border: 1px solid #d5ffdd;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: block;
+    margin: 10px auto;
+}
+
+
+.count {
+
+    display: inline-block;
+    color: #1E1D1D;
+    border: 2px solid #d5ffdd;
+    background-color: #FAEDCD;
+    padding: 12px;
+    border-radius: 5px;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+
+
+#reset-button {
+    border: none;
+    background-color: #FAEDCD;
+    color: #1E1D1D;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+}
+
+
+footer {
+    color: #1E1D1D;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+}
